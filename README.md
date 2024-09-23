@@ -1,7 +1,7 @@
 - Hi, My name is John Colleen C. Saberon 🙋‍♂️
 - BS-Computer Science Student 🧑‍🎓
 - Knowledgeable in Python, Java, and C++
-⬜⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜⬛⬜
+- Interests: 🎮 📖 🛌🏼💤
 
 
 <!---
