@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @thexys
-- 👀 I’m interested in Game Development, Programming
-- 🌱 I’m currently learning C#, Java, C++, Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Hi, My name is John Colleen C. Saberon 🙋‍♂️
+- BS-Computer Science Student 🧑‍🎓
+- Knowledgeable in Python, Java, and C++
+- 
+- 
 
 <!---
 thexys/thexys is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
